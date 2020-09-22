@@ -1,0 +1,50 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-item1 {
+  background: #790909;
+  color: white;
+  text-align: center;
+}
+
+.flex-item2 {
+  background: #E5CB90;
+}
+
+.flex-item3 {
+  background: #070024;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+.Shearer-Blackburn {
+  width: 25%;
+  float: left;
+  margin: .75%
+}
+
+.Shearer-Celebrates {
+  width: 30%;
+  float: right;
+  margin: .50%;
+}
+
+.Shearer-shirt {
+  width: 20%;
+  float: left;
+  margin: .70%;
+}
